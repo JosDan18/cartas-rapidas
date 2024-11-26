@@ -1,4 +1,3 @@
-
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #144480;
@@ -28,7 +27,7 @@ body {
 .cartao__conteudo {
     background-color: var(--card-front-color);
     text-align: center;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
